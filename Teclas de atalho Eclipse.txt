@@ -1,0 +1,20 @@
+Para andar pelo código 
+
+Ctrl+Shift+G - Procurar todas a ocorrências do código selecionado. 
+Ctrl+Shift+T — Procurar por uma Classe, digitando uma parte do nome dela. (Muito útil)
+Ctrl+F6 — Mudar entre os últimos arquivos usados
+F3 — O Ctrl+Clique do mouse no teclado.
+Ctrl+Alt+H — Abrir Call Hierarchy
+Ctrl+O - Mostra o Outline, com os métodos da classe, os atributos etc.
+Alt+Seta - É tecla voltar como no browser.
+
+Edição de código
+
+Ctrl+1 — Quick Fix: abre a janela de Quick fix, permitindo fazer refactorings, correções etc.
+Ctrl+Space — Context Assist: use depois de um ., ou pra usar macros (for, while, sysout, …). Utilize no escopo de classe  para criar automaticamente declarções de métodos.
+Ctrl+Shift+O — Organizar imports
+Ctrl+Shift+F — Ajustar o formato do código
+Alt+Shift+T — Abre o menu de refactorings.
+Ah, e se você esquecer algum atalho,
+
+Ctrl+Shift+L abre uma lista com todas as teclas pra você lembrar :)

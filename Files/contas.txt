@@ -1,0 +1,5 @@
+Roberto = 60000.0 ; 
+Jessica = 40000.0 ; 
+Eduarda = 45000.0 ; 
+Virgilio = 65000.0 ; 
+Roberta = 72000.0 ; 
